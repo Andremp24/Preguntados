@@ -1,4 +1,4 @@
-   Training Sofka Juego reto tecnico 
+   
 
 
 El desalloro del reto se basa en hacer varias clases y cada una de ellas una tarea especifica.
